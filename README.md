@@ -91,7 +91,7 @@ Here's a list of the things you must do:
 | Step 0: Install the application on XAMPP completed on time                     | 25         | 12            |
 | Step 1: Content Creation completed on time                                     | 25         | 12            |
 | Step 2: Improve the navbar and footer and make them your own completed on time | 25         | 12            |
-| The entire project is styled professionally                                    | 200        | 100           |
+| The entire project is styled professionally                                    | 230        | 115           |
 | The PHP code is sufficiently commented                                         | 20         | 10            |
 | The quality of the PHP code is professional                                    | 35         | 17            |
 | The project was turned in on time                                              | 35         | 17            |
