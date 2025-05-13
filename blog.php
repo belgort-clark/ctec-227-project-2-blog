@@ -14,6 +14,7 @@ require "inc/header.inc.php";
                     ON post.author = author.author_id";
 
         // PDO Prepared Statements
+        // You must change this to PDO with placeholders
         $stmt = $db->prepare($sql);
         $stmt->execute();
 
@@ -33,6 +34,7 @@ require "inc/header.inc.php";
             echo "<p class='fw-bold'>{$row->first_name} {$row->last_name} - " . $date->format('M d, Y')  . "</p>";
 
             // Now get the categories for this post with SQL JOIN
+             // You must change this to PDO with placeholders
             $sql = "SELECT post_category.post_id, post_category.category_id, category.category 
                     FROM post_category 
                     JOIN category 
@@ -53,6 +55,7 @@ require "inc/header.inc.php";
             echo "</ul>";
 
             // Now get the tags for this post with SQL JOIN
+             // You must change this to PDO with placeholders
             $sql = "SELECT post_tag.post_id, post_tag.tag_id, tag.tag 
                     FROM post_tag 
                     JOIN tag 

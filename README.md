@@ -19,7 +19,7 @@ The application must include all of the following pages:
 - tag.php (shows all of the posts for a given tag)
 - category.php (shows all of the posts for a given category)
 
-## Step 0: Install the application on XAMPP - Due by Wednesday 15th, 2024
+## Step 0: Install the application on XAMPP - Due by Thursday 15th, 2025
 
 Here's a list of the things you must do:
 
@@ -28,23 +28,23 @@ Here's a list of the things you must do:
 - Using phpMyAdmin, create a new database and name it 'blog'. All lowercase.
 - Import the SQL from the .sql folder in this repository
 - Go to your browser and bring up the blog.php page
-- You must submit a screen shot showing these items installed in Canvas by May 15, 2024.
+- You must submit a screen shot showing these items installed in Canvas.
 
-## Step 1: Content Creation - Due by Friday 17th, 2024
+## Step 1: Content Creation - Due by Sunday 18th, 2025
 
 - Your project must remove all of the existing content in each of the tables
 - You must create at least 7 meaningful blog posts using phpMyAdmin. No need for a front-end form to do this for this project. Lorem Ipsum text must not be used.
 - Use topics of your choice.
 - Make sure that the project contains no remnants of the original content.
 - This includes page titles, headings, footers, etc.
-- You must submit a screen shot showing these items completed in Canvas by May 17, 2024.
+- You must submit a screen shot showing these items completed in Canvas.
 
-## Step 2: Improve the navbar and make it your own - Due by Sunday 19th, 2024
+## Step 2: Improve the navbar and make it your own - Due by Sunday 18th, 2025
 
 - The navbar must not look like the one provided.
 - Do not remove the 3 links provided (Home, Categories, Tags).
 - Style it to match the overall theme you will use for the project.
-- You must submit a screen shot showing your improved navbar in Canvas by May 19, 2024.
+- You must submit a screen shot showing your improved navbar in Canvas.
 
 ## Step 3: Improving the Home Page Content Area
 
@@ -73,10 +73,10 @@ Here's a list of the things you must do:
 
 ## Milestone Due Date Summary
 
-- Step 0: Install the application on XAMPP - Due by Wednesday 15th, 2024
-- Step 1: Content Creation - Due by Friday 17th, 2024
-- Step 2: Improve the navbar and make it your own - Due by Sunday 19th, 2024
-- Project 2 Due Date - Sunday, May 26, 2024 at 11:59 PM.
+- Step 0: Install the application on XAMPP and submitted on time
+- Step 1: Content Creation and submitted on time
+- Step 2: Improve the navbar and make it your own and submitted on time
+- Project 2 Due Date - Sunday, May 25, 2025 at 11:59 PM.
 
 ## Submission
 
